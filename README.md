@@ -50,6 +50,17 @@ Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
+**Circuit diagram**
+<img width="1028" height="1600" alt="image" src="https://github.com/user-attachments/assets/866455a4-f811-42fa-90de-7dda238b6410" />
+
+**Tabulation And Calculation**
+<img width="1001" height="1600" alt="image" src="https://github.com/user-attachments/assets/3b40a38a-6bd5-4846-af70-476789cf1d9f" />
+<img width="1059" height="1600" alt="image" src="https://github.com/user-attachments/assets/f56d1e63-2b05-464d-900b-d7f50db710a3" />
+
+**Mark split up**
+<img width="1213" height="1600" alt="image" src="https://github.com/user-attachments/assets/92a1f0f1-1b6d-4821-963e-4b53fd211552" />
+
+
 
 **PROCEDURE:**
 
